@@ -1,0 +1,9 @@
+armstrong number 
+nivens number
+harshad number
+happy number
+krishnamurthy number
+automorphic number
+adam number
+magic number
+strong number
