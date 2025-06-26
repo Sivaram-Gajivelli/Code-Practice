@@ -1,0 +1,5 @@
+String Functions:
+    -> strlen(str) - gives length of str
+    -> strcpy(a, b) 
+    -> strcat(a, b)
+    -> strcmp(a, b) -> boolean output

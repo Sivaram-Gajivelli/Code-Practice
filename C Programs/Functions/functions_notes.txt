@@ -1,0 +1,7 @@
+Types of functions: 
+    1. Predefined
+    2. User Defined:
+        a. arg pass return value
+        b. arg pass no return value
+        c. no arg return value
+        d. no arg no return value
